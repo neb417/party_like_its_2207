@@ -51,9 +51,7 @@ end
 group :development do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
   gem 'web-console', '>= 3.3.0'
-  gem 'listen', '>= 3.0.5',git remote add origin git@github.com:neb417/party_like_its_2207.git
-git branch -M main
-git push -u origin main '< 3.2'
+  gem 'listen', '>= 3.0.5'
 end
 
 
